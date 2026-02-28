@@ -22,7 +22,7 @@ Este es un **Monitor de Transmisiones** diseñado específicamente para optimiza
 Para obtener la aplicación, ve a la sección de **Releases** de este repositorio:
 
 1.  Haz clic en **Última Versión (v1.0.0)**.
-2.  Descarga el archivo `KirinScript_Installer.exe` (Aproximadamente 350MB).
+2.  Descarga el archivo `Tipito Enojado App Monitor No Oficial.exe` (Aproximadamente 350MB).
 
 > [!NOTE]
 > **Nota sobre el peso:** La app incluye su propio entorno Java 21, por lo que es totalmente autónoma y no requiere que instales nada extra en tu PC.
