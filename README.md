@@ -21,7 +21,7 @@ Este es un **Monitor de Transmisiones** diseñado específicamente para optimiza
 ## 📥 DESCARGA E INSTALACIÓN
 Para obtener la aplicación, ve a la sección de **Releases** de este repositorio:
 
-1.  Haz clic en **Última Versión (v1.0.0)**.
+1.  Haz clic en **[Última Versión (v1.0.0)](https://github.com/Adrian-Salvini/Tipito-Enojado---Monitor-No-Oficial-v1.0.0-/releases/latest))**.
 2.  Descarga el archivo `Tipito Enojado App Monitor No Oficial.exe` (Aproximadamente 350MB).
 
 > [!NOTE]
